@@ -1,0 +1,5 @@
+	gender	SeniorCitizen	Partner	Dependents	tenure	PhoneService	MultipleLines	OnlineSecurity	OnlineBackup	DeviceProtection	...	MonthlyCharges	TotalCharges	Churn	InternetService_Fiber optic	InternetService_No	Contract_One year	Contract_Two year	PaymentMethod_Credit card (automatic)	PaymentMethod_Electronic check	PaymentMethod_Mailed check
+0	1	0	1	0	1	0	0	0	1	0	...	29.85	29.85	0	False	False	False	False	False	True	False
+1	0	0	0	0	34	1	0	1	0	1	...	56.95	1889.50	0	False	False	True	False	False	False	True
+2	0	0	0	0	2	1	0	1	1	0	...	53.85	108.15	1	False	False	False	False	False	False	True
+3	0	0	0	0	45	0	0	1	0	1	...	42.30	1840.75	0	False	False	True	False	False	False	False
